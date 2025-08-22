@@ -17,4 +17,9 @@ After each row is cleaned, missing values properly filled, I copied the download
 
 ### Exploratory Data Analysis
 The Exploratory Data Analysis involves asking questions about the data that meet specific conditions, such as:
-- 
+- The total amount spent on specific confectionery (the most sold confectionery)
+- Total quantity sold
+- Month with the highest quantity sold.
+
+### Data Analysis
+Below are the results visulized
