@@ -10,29 +10,29 @@ The data was readily available on Kaggle by Ahmed Mohamed with the title: Cafe S
 - Excel & Google Sheet for data cleaning and visualisation
 
 ### Data Preparation
-In the initial data preparation phase, I downloaded the dataset on Kaggle, then proceeded to upload it to Microsoft Excel, where I sorted for missing values and outliers. I first selected the entire sheet (ctrl+A), then proceeded to filter.
+In the initial data preparation phase, I downloaded the dataset from Kaggle and then proceeded to upload it to Microsoft Excel, where I sorted it for missing values and outliers. I first selected the entire sheet (ctrl+A), then proceeded to filter.
 The filter button made it easy to find UKNOWN, ERRORS and BLANKS.
 
- Before filter and sort:
+ ### Before filter and sort:
  <img width="1014" height="874" alt="Screenshot 2025-08-25 121037" src="https://github.com/user-attachments/assets/73cf8b39-1d49-48b0-bf38-5af34c3d64aa" />
  
-#### Figure 1: image of raw data from Kaggle after upload to Excel
-
-`
 
 <img width="1066" height="940" alt="Screenshot 2025-08-25 121114" src="https://github.com/user-attachments/assets/87cfe19b-3bc9-42aa-af58-d05664615d42" />
 
-#### Figure 1b: image of raw data from Kaggle after expanding in Excel
+
+#### Figure 1: image of raw data from Kaggle after upload to Excel
 
 
 
-After filter and sort:
+
+### After filter and sort:
 
 - On Excel:
   
 <img width="1356" height="980" alt="Screenshot 2025-08-25 120855" src="https://github.com/user-attachments/assets/23a7a886-9e2d-4160-ad72-7fe9d132b134" />
 
-#### Figure 3: above is the image of raw data after partial cleaning on Excel
+
+#### Figure 3: The image above is the image of raw data after partial cleaning on Excel
 
 
 - On Google Sheet: 
@@ -41,7 +41,7 @@ After filter and sort:
 
 #### Figure 3b: above is the image of raw data after complete cleaning, filtering and sorting on Google Sheet
 
-After each row is cleaned, missing values are properly filled, I copied the downloaded data from Excel and uploaded it to a Google sheet, which I find to be more user-friendly. On the sheet, I split the date into day of week, month and year. Then I created pivot table(s) to derive insights into the data. 
+After each row is cleaned, missing values are properly filled, I copied the downloaded data from Excel and uploaded it to a Google sheet, which I find to be more user-friendly. On the sheet, I split the date into day of the week, month, and year, as shown in the image above. Then I created pivot table(s) to derive insights into the data. 
 
 ### Exploratory Data Analysis
 The Exploratory Data Analysis involves asking questions about the data that meet specific conditions, such as:
