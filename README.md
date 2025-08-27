@@ -16,10 +16,7 @@ The filter button made it easy to find UKNOWN, ERRORS and BLANKS.
  ### Before filter and sort:
  <img width="1014" height="874" alt="Screenshot 2025-08-25 121037" src="https://github.com/user-attachments/assets/73cf8b39-1d49-48b0-bf38-5af34c3d64aa" />
 
-
-
-
- 
+------
 
 <img width="1066" height="940" alt="Screenshot 2025-08-25 121114" src="https://github.com/user-attachments/assets/87cfe19b-3bc9-42aa-af58-d05664615d42" />
 
@@ -53,16 +50,36 @@ The Exploratory Data Analysis involves asking questions about the data that meet
 - Total quantity sold
 - Month with the highest quantity sold.
 
-The most demanded item based on quantity: Salad, with a total of 3815 sold in the year 2023
-The least demanded item based on quantity: Cookie, with a total of 3585 sold in the year 2023
+   - The most demanded item based on quantity: Coffee, with a total of 3878 sold in the year 2023
+   - The least demanded item based on quantity: Smoothie, with a total of 3585 sold in the year 2023
 
-Item that generated the most revenue: Salad. Amount generated **19075** 
-Item that generated the least revenue: Cookie. Amount generated **3585**
-Similarity noted in the quantity sold and the revenue generated from the sales of cookies is because their cost price is 1, while Salad is sold at 5. This, however, doesn't affect the quantity of purchased salad because, despite the cost, it is still the most demanded. 
+   - Item that generated the most revenue: Salad. Amount generated **19075**. Sales Price: 5
+   - Item that generated the least revenue: Cookie. Amount generated **3585**.  Sales Price: 1
 
-<img width="587" height="265" alt="Screenshot 2025-08-27 161333" src="https://github.com/user-attachments/assets/05a15396-23c0-46f0-9165-27c4b2103344" />
+
+<img width="596" height="256" alt="Screenshot 2025-08-27 165832" src="https://github.com/user-attachments/assets/5a42663b-b6c7-411c-b70f-10e5c9667ef0" />
+
 
 #### Figure 4
 
+Number of times customers came back for specific items can be seen below. The highest is Coffee, and the least is Smoothie.
+
+
+<img width="608" height="348" alt="Screenshot 2025-08-25 124539" src="https://github.com/user-attachments/assets/33945406-c665-46e2-a8c1-4b999c28e7cb" />
+
+#### Figure 5
+
+The day of the week with the most sold items and revenue can be seen below. In this section, you can see that there is ERROR, UNKNOWN and BLANK. I did not remove these items as they could be valuable to the data.
+
+
+<img width="431" height="248" alt="Screenshot 2025-08-25 124619" src="https://github.com/user-attachments/assets/e71161bb-09b2-4356-871d-f535880c1b61" />
+
+#### Figure 6
+
 ### Data Analysis
-Below are the results visualised
+Below are the results visualised: 
+
+<img width="480" height="323" alt="Screenshot 2025-08-27 164723" src="https://github.com/user-attachments/assets/1ec06def-c0ff-459a-a552-076a6cba0135" />
+
+------
+<img width="499" height="338" alt="Screenshot 2025-08-27 164754" src="https://github.com/user-attachments/assets/2ae2fc8a-35dd-41f4-99ca-11a319e61c8d" />
