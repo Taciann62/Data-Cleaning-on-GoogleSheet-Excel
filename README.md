@@ -1,7 +1,7 @@
 # Data-Cleaning-on-GoogleSheet-Excel
 This dirty data was obtained from Kaggle. It contains sales record of different confectionaries, their cost, date of purchase, purchase ID, among other necessary details. This data is beginner-friendly and useful in practising your data analysis skills after a long time.
 ## Project Overview
-In the analysis of this data, insights are provided to the store owner into the purchasing power, sales and best business days and months through the revenue generated and the number of items sold. While working on this data, I ensured that the purpose of the analysis was fully observed and executed.
+Through the analysis of this data, insights are provided to the store owner regarding purchasing power, sales, and the best business days and months, as determined by the revenue generated and the number of items sold. While working on this data, I ensured that the purpose of the analysis was fully observed and executed.
 
 ### Data Source
 The data was readily available on Kaggle by Ahmed Mohamed with the title: Cafe Sales - Dirty Data for Cleaning Training <https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training>
@@ -10,7 +10,7 @@ The data was readily available on Kaggle by Ahmed Mohamed with the title: Cafe S
 - Excel & Google Sheet for data cleaning and visualisation
 
 ### Data Preparation
-In the initial data preparation phase, I downloaded the dataset from Kaggle and then proceeded to upload it to Microsoft Excel, where I sorted it for missing values and outliers. I first selected the entire sheet (ctrl+A), then proceeded to filter.
+In the initial data preparation phase, I downloaded the dataset from Kaggle and then uploaded it to Microsoft Excel, where I sorted it to identify missing values and outliers. I first selected the entire sheet (Ctrl+A), then proceeded to filter.
 The filter button made it easy to find UKNOWN, ERRORS and BLANKS.
 
  ### Before filter and sort:
@@ -52,7 +52,10 @@ The Exploratory Data Analysis involves asking questions about the data that meet
 The most demanded item based on quantity: Salad, with a total of 3815 sold in the year 2023
 The least demanded item based on quantity: Cookie, with a total of 3585 sold in the year 2023
 
-Item that generated the most revenue: Salad. Amount generated 19075
+Item that generated the most revenue: Salad. Amount generated **19075** 
+Item that generated the least revenue: Cookie. Amount generated **3585**
+Similarity noted in the quantity sold and the revenue generated from the sales of cookies is because their cost price is 1, while Salad is sold at 5. This, however, doesn't affect the quantity of purchased salad because, despite the cost, it is still the most demanded.
+
 
 
 
