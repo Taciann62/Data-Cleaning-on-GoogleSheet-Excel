@@ -15,6 +15,10 @@ The filter button made it easy to find UKNOWN, ERRORS and BLANKS.
 
  ### Before filter and sort:
  <img width="1014" height="874" alt="Screenshot 2025-08-25 121037" src="https://github.com/user-attachments/assets/73cf8b39-1d49-48b0-bf38-5af34c3d64aa" />
+
+
+
+
  
 
 <img width="1066" height="940" alt="Screenshot 2025-08-25 121114" src="https://github.com/user-attachments/assets/87cfe19b-3bc9-42aa-af58-d05664615d42" />
@@ -54,10 +58,11 @@ The least demanded item based on quantity: Cookie, with a total of 3585 sold in 
 
 Item that generated the most revenue: Salad. Amount generated **19075** 
 Item that generated the least revenue: Cookie. Amount generated **3585**
-Similarity noted in the quantity sold and the revenue generated from the sales of cookies is because their cost price is 1, while Salad is sold at 5. This, however, doesn't affect the quantity of purchased salad because, despite the cost, it is still the most demanded.
+Similarity noted in the quantity sold and the revenue generated from the sales of cookies is because their cost price is 1, while Salad is sold at 5. This, however, doesn't affect the quantity of purchased salad because, despite the cost, it is still the most demanded. 
 
+<img width="587" height="265" alt="Screenshot 2025-08-27 161333" src="https://github.com/user-attachments/assets/05a15396-23c0-46f0-9165-27c4b2103344" />
 
-
+#### Figure 4
 
 ### Data Analysis
 Below are the results visualised
