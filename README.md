@@ -49,5 +49,12 @@ The Exploratory Data Analysis involves asking questions about the data that meet
 - Total quantity sold
 - Month with the highest quantity sold.
 
+The most demanded item based on quantity: Salad, with a total of 3815 sold in the year 2023
+The least demanded item based on quantity: Cookie, with a total of 3585 sold in the year 2023
+
+Item that generated the most revenue: Salad. Amount generated 19075
+
+
+
 ### Data Analysis
 Below are the results visualised
