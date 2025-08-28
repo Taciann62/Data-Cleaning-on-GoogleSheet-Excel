@@ -50,11 +50,14 @@ The Exploratory Data Analysis involves asking questions about the data that meet
 - Total quantity sold
 - Month with the highest quantity sold.
 
-   - The most demanded item based on quantity: Coffee, with a total of 3878 sold in the year 2023
-   - The least demanded item based on quantity: Smoothie, with a total of 3585 sold in the year 2023
+   - The most demanded item based on quantity: **Coffee**, with a total of 3878 sold in the year 2023
+   - The least demanded item based on quantity: **Smoothie**, with a total of 3585 sold in the year 2023
 
-   - Item that generated the most revenue: Salad. Amount generated **19075**. Sales Price: 5
-   - Item that generated the least revenue: Cookie. Amount generated **3585**.  Sales Price: 1
+   - Item that generated the most revenue: **Salad**. Amount generated **19075**. Sales Price: 5
+   - Item that generated the least revenue: **Cookie**. Amount generated **3585**.  Sales Price: 1
+ 
+   - Item with the most customers: **Coffee**. Total Customers = 1279
+   - Item with the fewest customers: **Smoothie**.
 
 
 <img width="596" height="256" alt="Screenshot 2025-08-27 165832" src="https://github.com/user-attachments/assets/5a42663b-b6c7-411c-b70f-10e5c9667ef0" />
@@ -82,4 +85,4 @@ Below are the results visualised:
 <img width="480" height="323" alt="Screenshot 2025-08-27 164723" src="https://github.com/user-attachments/assets/1ec06def-c0ff-459a-a552-076a6cba0135" />
 
 ------
-<img width="499" height="338" alt="Screenshot 2025-08-27 164754" src="https://github.com/user-attachments/assets/2ae2fc8a-35dd-41f4-99ca-11a319e61c8d" />
+<img width="545" height="331" alt="Screenshot 2025-08-28 153457" src="https://github.com/user-attachments/assets/bf1f9620-bc2f-4f53-bb82-3f0ac11d6b51" />
