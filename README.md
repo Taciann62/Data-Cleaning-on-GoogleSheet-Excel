@@ -65,7 +65,7 @@ The Exploratory Data Analysis involves asking questions about the data that meet
 
 #### Figure 4
 
-Number of times customers came back for specific items can be seen below. The highest is Coffee, and the least is Smoothie.
+Number of times customers requested for specific items can be seen below. The highest is Coffee, and the least is Smoothie.
 
 
 <img width="608" height="348" alt="Screenshot 2025-08-25 124539" src="https://github.com/user-attachments/assets/33945406-c665-46e2-a8c1-4b999c28e7cb" />
