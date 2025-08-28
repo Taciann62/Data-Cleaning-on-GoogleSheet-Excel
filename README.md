@@ -42,9 +42,10 @@ The filter button made it easy to find UKNOWN, ERRORS and BLANKS.
 
 #### Figure 3b: above is the image of raw data after complete cleaning, filtering and sorting on Google Sheet
 
-After each row is cleaned, missing values are properly filled, I copied the downloaded data from Excel and uploaded it to a Google sheet, which I find to be more user-friendly. On the sheet, I split the date into day of the week, month, and year, as shown in the image above. Then I created pivot table(s) to derive insights into the data. 
+After each row is cleaned and missing values are properly filled, I copied the downloaded data from Excel and uploaded it to a Google sheet, which I find to be more user-friendly. On the sheet, I split the date into day of the week, month, and year, as shown in the image above. Then I created pivot table(s) to derive insights into the data. 
 
 ### Exploratory Data Analysis
+   #### Results and Findings
 The Exploratory Data Analysis involves asking questions about the data that meet specific conditions, such as:
 - The total amount spent on specific confectionery (the most sold confectionery)
 - Total quantity sold
@@ -65,14 +66,14 @@ The Exploratory Data Analysis involves asking questions about the data that meet
 
 #### Figure 4
 
-Number of times customers requested for specific items can be seen below. The highest is Coffee, and the least is Smoothie.
+The number of times customers requested specific items can be seen below. The highest is Coffee, and the least is Smoothie.
 
 
 <img width="608" height="348" alt="Screenshot 2025-08-25 124539" src="https://github.com/user-attachments/assets/33945406-c665-46e2-a8c1-4b999c28e7cb" />
 
 #### Figure 5
 
-The day of the week with the most sold items and revenue can be seen below. In this section, you can see that there is ERROR, UNKNOWN and BLANK. I did not remove these items as they could be valuable to the data.
+The day of the week with the most sold items and revenue is shown below. In this section, you can see that there are ERROR, UNKNOWN and BLANK. I did not remove these items as they could be valuable to the data.
 
 
 <img width="431" height="248" alt="Screenshot 2025-08-25 124619" src="https://github.com/user-attachments/assets/e71161bb-09b2-4356-871d-f535880c1b61" />
@@ -86,3 +87,7 @@ Below are the results visualised:
 
 ------
 <img width="545" height="331" alt="Screenshot 2025-08-28 153457" src="https://github.com/user-attachments/assets/bf1f9620-bc2f-4f53-bb82-3f0ac11d6b51" />
+
+Recommendations:
+Based on the analysis, I recommend that the store surveys its customers to figure out the decline 
+
